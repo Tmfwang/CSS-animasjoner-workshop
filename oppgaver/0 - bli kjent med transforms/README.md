@@ -67,6 +67,9 @@ Løs hver oppgave ved å redigere CSSen i selektoren som tilsvarer oppgavenummer
 
 :trophy: 3. Flytt boks nr. 3 `50%` til venstre og `50%` oppover, ved å bruke `translate()` med to parametre.
 
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/NWEvabO)
+
+
 ## Skalering - `scale`
 
 **Eksempel 1:**
