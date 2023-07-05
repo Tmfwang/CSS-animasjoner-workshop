@@ -57,7 +57,7 @@ I **eksempel 1** brukte vi `translate(20px)` for å flytte boksen mot høyre, me
 
 > `translateZ()` lar oss forflytte elementer "ut av skjermen", men det kommer vi tilbake til senere.
 
-### :trophy: [Oppgave 1, 2 og 3](https://codepen.io/mfeiring/pen/RePWGL)
+### :trophy: [Oppgave 1, 2 og 3](https://codepen.io/tmfwang/pen/vYQJmqa)
 
 Løs hver oppgave ved å redigere CSSen i selektoren som tilsvarer oppgavenummeret, altså `.oppgave-1` for oppgave 1 osv.
 
