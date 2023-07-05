@@ -119,7 +119,7 @@ div {
 
 Også `scale()` har alternative definisjoner; `scaleX()`, `scaleY()` og `scaleZ()`. Igjen kommer vi tilbake til dette med z-aksen senere.
 
-### Oppgaver
+### :trophy: [Oppgave 4, 5, 6 og 7](https://codepen.io/tmfwang/pen/eYQEGWY)
 
 :trophy: 4. Gjør boks nr. 4 dobbelt så bred, ved å bruke `scaleX()`.
 
@@ -128,6 +128,9 @@ Også `scale()` har alternative definisjoner; `scaleX()`, `scaleY()` og `scaleZ(
 :trophy: 6. Gjør boks nr. 6 tre ganger så bred og tre ganger så høy, ved å bruke `scale()`.
 
 :trophy: 7. Gjør boks nr. 7 0.2 ganger så bred og dobbelt så høy, ved å bruke `scale()` med to parametre.
+
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/VwVzMWz)
+
 
 ## Skråstilling - `skew`
 
