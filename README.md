@@ -4,8 +4,8 @@ Denne workshopen vil ta deg gjennom de grunnleggende prinsippene for animasjoner
 
 Oppgavene finner du [her](https://github.com/Tmfwang/CSS-animasjoner-workshop/tree/master/oppgaver)
 
-:trophy: - brukes til å marke selve oppgavene.
+:trophy: -> brukes til å marke selve oppgavene.
 
-:bulb: - brukes til å markere tips.
+:bulb: -> brukes til å markere tips.
 
-:school_satchel: - brukes til å markere fasit.
+:school_satchel: -> brukes til å markere fasit.
