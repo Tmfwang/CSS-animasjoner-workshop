@@ -10,4 +10,4 @@ Oppgavene finner du [her](https://github.com/bekk/dataviz-animasjoner/tree/maste
 
 :school_satchel: - brukes til å markere fasit.
 
-For å laste ned en zip av prosjektet [klikk her](https://github.com/bekk/dataviz-animasjoner/archive/master.zip)
+Frivillig: For å laste ned en zip av prosjektet [klikk her](https://github.com/bekk/dataviz-animasjoner/archive/master.zip)
