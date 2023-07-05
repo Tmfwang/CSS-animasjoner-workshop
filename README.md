@@ -2,7 +2,7 @@
 
 Denne workshopen vil ta deg gjennom de grunnleggende prinsippene for animasjoner med CSS og SVG. Etter workshopen vil du ha fylt verktøykassen slik at du kan lage fete animasjoner helt selv. 
 
-Oppgavene finner du [her](https://github.com/bekk/dataviz-animasjoner/tree/master/oppgaver)
+Oppgavene finner du [her](https://github.com/Tmfwang/CSS-animasjoner-workshop/tree/master/oppgaver)
 
 :trophy: - brukes til å marke selve oppgavene.
 
