@@ -57,11 +57,11 @@ I **eksempel 1** brukte vi `translate(20px)` for å flytte boksen mot høyre, me
 
 > `translateZ()` lar oss forflytte elementer "ut av skjermen", men det kommer vi tilbake til senere.
 
-### Oppgaver
+### :trophy: [Oppgave 1, 2 og 3](https://codepen.io/mfeiring/pen/RePWGL)
 
-Åpne opp `src/index.html` i en nettleser. Selve oppgavene skal løses ved å redigere `src/style.css`. Løs hver oppgave ved å redigere CSSen i selektoren som tilsvarer oppgavenummeret, altså `.oppgave-1` for oppgave 1 osv.
+Løs hver oppgave ved å redigere CSSen i selektoren som tilsvarer oppgavenummeret, altså `.oppgave-1` for oppgave 1 osv.
 
-:trophy: 1. Flytt boks nr. 1 `20px` til høyre, ved å bruke `translateX()`. Lagre endringene, og refresh nettleservinduet med filen `src/index.html` for å se resultatet.
+:trophy: 1. Flytt boks nr. 1 `20px` til høyre, ved å bruke `translateX()`.
 
 :trophy: 2. Flytt boks nr. 2 `20px` oppover, ved å bruke `translateY()`.
 
