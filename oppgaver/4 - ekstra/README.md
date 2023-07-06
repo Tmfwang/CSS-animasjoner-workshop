@@ -25,7 +25,6 @@ Sett opp en eller begge av flashcardsene i [denne codepenen](https://codepen.io/
 - Sett opp selve kortet med tekst og riktig bakgrunnsgradient
   - Fargene brukt på success-bakgrunnen er #B0DB7D og #99DBB4
   - Fargene brukt på error-bakgrunnen er #EF8D9C og #FFC39E
-  - Last inn fonten med `@import url('https://fonts.googleapis.com/css?family=Lato:400,700');`, og bruk den med `font-family: 'Lato'`
 - Animer knappene
 
 ### Hover-effekter på knapp
