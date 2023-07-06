@@ -19,7 +19,7 @@ SVG er et XML-basert språk som kan brukes til å tegne vektorgrafikk, enten ved
 
 Ved å kopiere og lime inn koden over i en fil med navn `bekk.svg` og åpne den i nettleseren vil man se følgende bilde:
 
-<img src="img/bekk.png" height="200">
+<img src="img/bekk.png" height="500">
 
 `svg`-elementet spesifiserer høyden (`height="250"`) og bredden (`width="300"`) til selve SVGen. Versjonen spesifiseres med `version`, `baseProfile` og `xmlns`.
 
