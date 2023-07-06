@@ -57,7 +57,7 @@ I **eksempel 1** brukte vi `translate(20px)` for å flytte boksen mot høyre, me
 
 > `translateZ()` lar oss forflytte elementer "ut av skjermen", men det kommer vi tilbake til senere.
 
-### :trophy: [Oppgave 1, 2 og 3](https://codepen.io/tmfwang/pen/vYQJmqa)
+### :trophy: [Oppgave 1, 2 og 3](https://codepen.io/tmfwang/pen/vYQJmqa?editors=1100)
 
 Løs hver oppgave ved å redigere CSSen i selektoren som tilsvarer oppgavenummeret, altså `.oppgave-1` for oppgave 1 osv.
 
@@ -67,7 +67,7 @@ Løs hver oppgave ved å redigere CSSen i selektoren som tilsvarer oppgavenummer
 
 :trophy: 3. Flytt boks nr. 3 `50%` til venstre og `50%` oppover, ved å bruke `translate()` med to parametre.
 
-:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/NWEvabO)
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/NWEvabO?editors=1100)
 
 
 ## Skalering - `scale`
@@ -119,7 +119,7 @@ div {
 
 Også `scale()` har alternative definisjoner; `scaleX()`, `scaleY()` og `scaleZ()`. Igjen kommer vi tilbake til dette med z-aksen senere.
 
-### :trophy: [Oppgave 4, 5, 6 og 7](https://codepen.io/tmfwang/pen/eYQEGWY)
+### :trophy: [Oppgave 4, 5, 6 og 7](https://codepen.io/tmfwang/pen/eYQEGWY?editors=1100)
 
 :trophy: 4. Gjør boks nr. 4 dobbelt så bred, ved å bruke `scaleX()`.
 
@@ -129,7 +129,7 @@ Også `scale()` har alternative definisjoner; `scaleX()`, `scaleY()` og `scaleZ(
 
 :trophy: 7. Gjør boks nr. 7 0.2 ganger så bred og dobbelt så høy, ved å bruke `scale()` med to parametre.
 
-:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/VwVzMWz)
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/VwVzMWz?editors=1100)
 
 
 ## Skråstilling - `skew`
@@ -189,15 +189,16 @@ div {
 
 Akkurat som med `translate()` og `scale()`, kan vi definere definere `skew()` med to parametre, for å gjøre transformasjoner i både x- og y-retning.
 
-### Oppgaver
-
-`skew()` er litt enklere å forstå, dersom man bruker DevTools i nettleseren til å gradvis øke parameterene med +/-1. Du kan se hvordan dette gjøres [her](https://developers.google.com/web/updates/2015/05/quickly-change-css-values). Dersom du ikke er så kjent med DevTools, kan en av veilederne hjelpe deg.
+### :trophy: [Oppgave 8, 9 og 10](https://codepen.io/tmfwang/pen/poQWJzx?editors=1100)
 
 :trophy: 8. Skråstill boks nr. 8 med 30 grader, ved å bruke `skewX(30deg)`.
 
 :trophy: 9. Skråstill boks nr. 9 med 30 grader, ved å bruke `skewY()`.
 
-:trophy: 10. Skråstill boks nr. 10 med ved å bruke `skew()` med to parametre, og prøv å endre litt på dem i DevTools.
+:trophy: 10. Skråstill boks nr. 10 med ved å bruke `skew()` med to parametre, og prøv å endre litt på dem for å se hvordan boksen endrer seg.
+
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/qBQPdbb?editors=1100)
+
 
 ## Rotasjon - `rotate`
 
@@ -216,7 +217,7 @@ div {
 
 Her ser vi at `rotate(30deg)` roterer boksen 30° _med_ klokka. Tilsvarende ville `rotate(-30deg)` rotert boksen 30° _mot_ klokka. Hvis vi ser på bildet av "koordinatsystemet" til en nettleser igjen, ser vi at dette tilsvarer en rotasjon rundt z-aksen. På samme måte som vi har `translate(20px) == translateX(20px)`, vil en mer eksplisitt versjon av `rotate(30deg)` derfor være `rotateZ(30deg)`
 
-### Oppgaver
+### :trophy: Oppgave 11 og 12
 
 :trophy: 11. Roter boks nr. 11 20 grader med klokka, ved å bruke `rotate()` eller `rotateZ()` .
 
