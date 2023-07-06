@@ -56,9 +56,8 @@ button:hover {
 
 `transition` er en såkalt [shorthand property](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties), som består av `transition-property`, `transition-duration`,`transition-timing-function` og `transition-delay`. I oppgavene under bruker vi [`transition`](https://developer.mozilla.org/en-US/docs/Web/CSS/transition) som eksempel.
 
-## Oppgaver
 
-Åpne opp `src/index.html` i en nettleser. Som i del 0 skal selve oppgavene løses ved å redigere `src/style.css`.
+### :trophy: [Oppgave 1](https://codepen.io/tmfwang/pen/oNQGXMW?editors=1100)
 
 :trophy: 1. Legg til en transisjon til, ved å definere enn annen verdi for `color` i `button:hover`-selektoren.
 
