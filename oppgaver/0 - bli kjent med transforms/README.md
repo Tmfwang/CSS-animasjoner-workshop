@@ -217,8 +217,10 @@ div {
 
 Her ser vi at `rotate(30deg)` roterer boksen 30° _med_ klokka. Tilsvarende ville `rotate(-30deg)` rotert boksen 30° _mot_ klokka. Hvis vi ser på bildet av "koordinatsystemet" til en nettleser igjen, ser vi at dette tilsvarer en rotasjon rundt z-aksen. På samme måte som vi har `translate(20px) == translateX(20px)`, vil en mer eksplisitt versjon av `rotate(30deg)` derfor være `rotateZ(30deg)`
 
-### :trophy: Oppgave 11 og 12
+### :trophy: [Oppgave 11 og 12](https://codepen.io/tmfwang/pen/ExOwjNa?editors=1100)
 
 :trophy: 11. Roter boks nr. 11 20 grader med klokka, ved å bruke `rotate()` eller `rotateZ()` .
 
 :trophy: 12. Vi kan også bruke `turn` som enhet, for å definere hvor mye et element et skal roteres. Roter boks nr. 12 ved å bruke `rotate(0.5turn)`
+
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/vYQeOZZ?editors=1100)
