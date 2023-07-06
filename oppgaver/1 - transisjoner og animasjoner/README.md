@@ -65,7 +65,7 @@ button:hover {
 
 
 
-### :trophy: Oppgave 2
+### :trophy: [Oppgave 2](https://codepen.io/tmfwang/pen/zYMEGeB?editors=1100)
 
 Fordi vi kun har definert tiden transisjonen skal ta, animeres alle propertiene som endrer seg. Vi kan eksplisitt velge å kun animere én property, ved å spesifisere navnet på propertien, f.eks. `transition: background 400ms`. Dette gir bedre ytelse i nettleseren enn å la alle egenskaper transisjonere.
 
@@ -73,7 +73,7 @@ Vi kan også definere to transisjoner med ulik hastighet, på følgende måte: `
 
 :trophy: 2. Utvid `transition`-propertien, slik at `color`-transisjonen tar `200ms`.
 
-:school_satchel: Fasit
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/YzRryKa?editors=1100)
 
 
 
