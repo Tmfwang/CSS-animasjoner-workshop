@@ -33,7 +33,7 @@ Man bruker et koordinatsystem for å posisjonere elementer i svg-dokumentet.
 
 <img src="img/canvas-default-grid.png" height="350">
 
-Koordinatsystemet startet i øvre venstre hjørne (0,0). Posisjoner måles i piksler fra dette hjørnet, med positiv x-retning til høyre og positiv y-retning nedover.
+Koordinatsystemet starter i øvre venstre hjørne (0,0). Posisjoner måles i piksler fra dette hjørnet, med positiv x-retning til høyre og positiv y-retning nedover.
 
 > Legg merke til at den vertikale retningen er motsatt av hva man lærte på skolen.
 
