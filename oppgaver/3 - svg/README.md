@@ -23,7 +23,7 @@ Ved å kopiere og lime inn koden over i en fil med navn `bekk.svg` og åpne den 
 
 `svg`-elementet spesifiserer høyden (`height="250"`) og bredden (`width="300"`) til selve SVGen.
 
-`circle`-elementet tegner en sirkel med sentrum i `cx="150" cy="125"` med radius 125 piksler (`r="125"`) og svart bakgrunnsfarge (`fill="black"`).
+`circle`-elementet tegner en sirkel med sentrum i `cx="150" cy="125"` (`cx` står for centrum X, og `cy` står for centrum Y) med radius 125 piksler (`r="125"`) og svart bakgrunnsfarge (`fill="black"`).
 
 `text`-elementet skriver teksten `Bekk` med hvit skrift (`fill="white"`) i skriftstørrelse 60px (`font-size="60"`) på posisjon spesifisert med `x="150" y="150" text-anchor="middle"`
 
