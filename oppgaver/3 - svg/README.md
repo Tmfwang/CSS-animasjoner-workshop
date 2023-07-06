@@ -31,7 +31,7 @@ Ved å kopiere og lime inn koden over i en fil med navn `bekk.svg` og åpne den 
 
 Man bruker et koordinatsystem for å posisjonere elementer i svg-dokumentet.
 
-![grid](https://mdn.mozillademos.org/files/224/Canvas_default_grid.png)
+<img src="img/bekk.png" height="200">
 
 Koordinatsystemet startet i øvre venstre hjørne (0,0). Posisjoner måles i piksler fra dette hjørnet, med positiv x-retning til høyre og positiv y-retning nedover.
 
