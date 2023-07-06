@@ -77,7 +77,7 @@ For å utsette starttidspunktet for en transisjon, legger vi til en forsinkelse,
 
 
 
-### :trophy: [Oppgave 4](https://codepen.io/tmfwang/pen/zYMEGeB?editors=1100)
+### :trophy: [Oppgave 4 og 5](https://codepen.io/tmfwang/pen/zYMEGeB?editors=1100)
 
 Den siste egenskapen ved en transisjon vi kan tweake på, er hvordan den akselererer, også kalt "timing function". De ulike alternativene er illustrert her:
 
