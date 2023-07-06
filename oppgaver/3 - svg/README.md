@@ -117,7 +117,7 @@ Bruk CSS til å gi hjertet fyllfarge og en svart strek rundt.
 
 ## Animasjoner med css.
 
-Hvis du har vært inne på uxcup.bekk.no har du nok sett de kule animasjonene vi har der. Disse er laget av SVGer som er animert med CSS. Man setter en klasse på SVG-elementet og bruker denne klassen til å gi SVGen en animasjon via `animation` nøkkelen i CSS.
+Hvis du har vært inne på [uxcup.bekk.no](https://uxcup.bekk.no/) har du nok sett de kule animasjonene vi har der. Disse er laget av SVGer som er animert med CSS. Man setter en klasse på SVG-elementet og bruker denne klassen til å gi SVGen en animasjon via `animation` nøkkelen i CSS.
 
 Skulle du ønske at du kunne lage like koselige animasjoner? Flaks for deg, det er nemlig det du skal nå.
 
