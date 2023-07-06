@@ -79,6 +79,8 @@ For å utsette starttidspunktet for en transisjon, legger vi til en forsinkelse,
 
 ### :trophy: [Oppgave 4 og 5](https://codepen.io/tmfwang/pen/zYMEGeB?editors=1100)
 
+:trophy: 4. Lag en ny knapp, som vokser gradvis og blir dobbelt stå stor når den får musepekeren over seg.
+
 Den siste egenskapen ved en transisjon vi kan tweake på, er hvordan den akselererer, også kalt "timing function". De ulike alternativene er illustrert her:
 
 <img width="400" src="img/easing.gif">
@@ -87,12 +89,11 @@ Defaultverdien er `ease`, men vi kan endre den til f.eks. `linear` slik: `transi
 
 Det er også mulig å lage en egendefinert akselerasjonskurve, ved å bruke [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67), eller bruke en av bezier-funksjonene definert [her](https://easings.net/nb) som inspirasjon.
 
-:trophy: 4. Sett akselerasjonen på `color`-transisjonen til `ease-in`. Prøv å bruke Chrome DevTools sin [cubic bezier editor](https://imgur.com/gallery/o2c15CZ) til å tweake på kurven.
+:trophy: 5. Sett akselerasjonen på `color`-transisjonen til `ease-in`. Prøv å bruke Chrome DevTools sin [cubic bezier editor](https://imgur.com/gallery/o2c15CZ) til å tweake på kurven.
 
 :school_satchel: [Fasit](https://codepen.io/tmfwang/pen/YzRryKa?editors=1100)
 
 
-:trophy: 5. Lag en ny knapp, som vokser gradvis og blir dobbelt stå stor når den får musepekeren over seg.
 
 :school_satchel: Fasit
 
