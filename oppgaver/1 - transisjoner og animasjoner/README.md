@@ -85,7 +85,9 @@ Den siste egenskapen ved en transisjon vi kan tweake på, er hvordan den akseler
 
 <img width="400" src="img/easing.gif">
 
-Defaultverdien er `ease`, men vi kan endre den til f.eks. `linear` slik: `transition: color 200ms 100ms linear`.
+Defaultverdien er `ease`, men vi kan endre den til f.eks. `linear` slik: `transition: color 200ms 100ms linear` (evt. `transition-timing-function: linear`).
+
+:trophy: 5. Gi knappen en akselerasjonskurve lik "ease-out".
 
 Det er også mulig å lage en egendefinert akselerasjonskurve, ved å bruke [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67), eller bruke en av bezier-funksjonene definert [her](https://easings.net/nb) som inspirasjon.
 
