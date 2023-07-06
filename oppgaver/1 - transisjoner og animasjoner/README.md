@@ -64,6 +64,7 @@ button:hover {
 :school_satchel: [Fasit](https://codepen.io/tmfwang/pen/eYQGNoJ?editors=1100)
 
 
+
 ### :trophy: Oppgave 2
 
 Fordi vi kun har definert tiden transisjonen skal ta, animeres alle propertiene som endrer seg. Vi kan eksplisitt velge å kun animere én property, ved å spesifisere navnet på propertien, f.eks. `transition: background 400ms`. Dette gir bedre ytelse i nettleseren enn å la alle egenskaper transisjonere.
@@ -75,6 +76,7 @@ Vi kan også definere to transisjoner med ulik hastighet, på følgende måte: `
 :school_satchel: Fasit
 
 
+
 ### :trophy: Oppgave 3
 
 For å utsette starttidspunktet for en transisjon, legger vi til en forsinkelse, også kalt delay. Dette kan gjøres slik: `transition: color 200ms 100ms`. Her har vi lagt til en forsinkelse på `100ms`. Legg merke til at lengden på transisjonen defineres først.
@@ -82,6 +84,7 @@ For å utsette starttidspunktet for en transisjon, legger vi til en forsinkelse,
 :trophy: 3. Legg på en forsinkelse på `color`-transisjonen, slik at den slutter samtidig som `background`-transisjonen.
 
 :school_satchel: Fasit
+
 
 
 ### :trophy: Oppgave 4
@@ -97,6 +100,7 @@ Det er også mulig å lage en egendefinert akselerasjonskurve, ved å bruke [cub
 :trophy: 4. Sett akselerasjonen på `color`-transisjonen til `ease-in`. Prøv å bruke Chrome DevTools sin [cubic bezier editor](https://imgur.com/gallery/o2c15CZ) til å tweake på kurven.
 
 :school_satchel: Fasit
+
 
 
 ### :trophy: Oppgave 5
