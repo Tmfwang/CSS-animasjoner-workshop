@@ -170,4 +170,4 @@ Fått det til? Så bra, men det ser kanskje litt rart ut at firkanten hopper til
 
 :school_satchel: [Fasit - Oppgave 7, 8 og 9](https://codepen.io/tmfwang/pen/VwVMvOR?editors=1100)
 
-Gjerne lek deg med mulighetene som keyframe-animasjoner tilbyr. Får du til å endre f.eks. størrelsen og fargen på firkanten underveis i animasjonen ved å bruke mellomsteg? 
+Gjerne lek deg med mulighetene som keyframe-animasjoner tilbyr. Får du til å endre f.eks. størrelsen og fargen på firkanten underveis i animasjonen ved å bruke mellomliggende steg? 
