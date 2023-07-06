@@ -57,15 +57,10 @@ button:hover {
 `transition` er en såkalt [shorthand property](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties), som består av `transition-property`, `transition-duration`,`transition-timing-function` og `transition-delay`. I oppgavene under bruker vi [`transition`](https://developer.mozilla.org/en-US/docs/Web/CSS/transition) som eksempel.
 
 
-### :trophy: [Oppgave 1](https://codepen.io/tmfwang/pen/oNQGXMW?editors=1100)
+### :trophy: [Oppgave 1, 2 og 3](https://codepen.io/tmfwang/pen/oNQGXMW?editors=1100)
 
 :trophy: 1. Legg til en transisjon til, ved å definere enn annen verdi for `color` i `button:hover`-selektoren.
 
-:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/eYQGNoJ?editors=1100)
-
-
-
-### :trophy: [Oppgave 2](https://codepen.io/tmfwang/pen/zYMEGeB?editors=1100)
 
 Fordi vi kun har definert tiden transisjonen skal ta, animeres alle propertiene som endrer seg. Vi kan eksplisitt velge å kun animere én property, ved å spesifisere navnet på propertien, f.eks. `transition: background 400ms`. Dette gir bedre ytelse i nettleseren enn å la alle egenskaper transisjonere.
 
@@ -73,17 +68,12 @@ Vi kan også definere to transisjoner med ulik hastighet, på følgende måte: `
 
 :trophy: 2. Utvid `transition`-propertien, slik at `color`-transisjonen tar `200ms`.
 
-:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/YzRryKa?editors=1100)
-
-
-
-### :trophy: Oppgave 3
 
 For å utsette starttidspunktet for en transisjon, legger vi til en forsinkelse, også kalt delay. Dette kan gjøres slik: `transition: color 200ms 100ms`. Her har vi lagt til en forsinkelse på `100ms`. Legg merke til at lengden på transisjonen defineres først.
 
 :trophy: 3. Legg på en forsinkelse på `color`-transisjonen, slik at den slutter samtidig som `background`-transisjonen.
 
-:school_satchel: Fasit
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/eYQGNoJ?editors=1100)
 
 
 
