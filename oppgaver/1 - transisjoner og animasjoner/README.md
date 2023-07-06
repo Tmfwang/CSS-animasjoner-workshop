@@ -73,11 +73,11 @@ For å utsette starttidspunktet for en transisjon, legger vi til en forsinkelse,
 
 :trophy: 3. Legg på en forsinkelse på `color`-transisjonen, slik at den slutter samtidig som `background`-transisjonen.
 
-:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/eYQGNoJ?editors=1100)
+:school_satchel: [Fasit - oppgave 1, 2 og 3](https://codepen.io/tmfwang/pen/eYQGNoJ?editors=1100)
 
 
 
-### :trophy: [Oppgave 4 og 5](https://codepen.io/tmfwang/pen/zYMEGeB?editors=1100)
+### :trophy: [Oppgave 4, 5 og 6](https://codepen.io/tmfwang/pen/zYMEGeB?editors=1100)
 
 :trophy: 4. Lag en ny knapp, som vokser gradvis og blir dobbelt stå stor når den får musepekeren over seg.
 
@@ -87,17 +87,18 @@ Den siste egenskapen ved en transisjon vi kan tweake på, er hvordan den akseler
 
 Defaultverdien er `ease`, men vi kan endre den til f.eks. `linear` slik: `transition: transform 200ms 100ms linear` (evt. `transition-timing-function: linear`).
 
-:trophy: 5. Gi knappen en akselerasjonskurve lik "ease-out".
+:trophy: 5. Sett akselerasjonskurven på `transform`-transisjonen lik `ease-in`. Utforsk gjerne med de andre akselerasjonskurvene og se om du merker forskjellen.
 
-Det er også mulig å lage en egendefinert akselerasjonskurve, ved å bruke [cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67), eller bruke en av bezier-funksjonene definert [her](https://easings.net/nb) som inspirasjon.
+:school_satchel: [Fasit - oppgave 4 og 5](https://codepen.io/tmfwang/pen/YzRryKa?editors=1100)
 
-:trophy: 5. Sett akselerasjonen på `color`-transisjonen til `ease-in`. Prøv å bruke Chrome DevTools sin [cubic bezier editor](https://imgur.com/gallery/o2c15CZ) til å tweake på kurven.
+Det er også mulig å lage en egendefinert akselerasjonskurve, ved å bruke [cubic-bezier (lages her)](http://cubic-bezier.com/#.17,.67,.83,.67).
 
-:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/YzRryKa?editors=1100)
+:trophy: 6. Sett akselerasjonen på `transform`-transisjonen til en cubic-bezier kurve du har [laget selv](http://cubic-bezier.com/#.17,.67,.83,.67). 
 
 
 
-:school_satchel: Fasit
+
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/NWEaGzG?editors=1100)
 
 
 ## Animasjoner - `animation`
