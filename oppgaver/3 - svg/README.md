@@ -19,7 +19,7 @@ SVG er et XML-basert språk som kan brukes til å tegne vektorgrafikk, enten ved
 
 Ved å kopiere og lime inn koden over i en fil med navn `bekk.svg` og åpne den i nettleseren vil man se følgende bilde:
 
-<img src="img/bekk.png" height="500">
+<img src="img/bekk.png" height="200">
 
 `svg`-elementet spesifiserer høyden (`height="250"`) og bredden (`width="300"`) til selve SVGen. Versjonen spesifiseres med `version`, `baseProfile` og `xmlns`.
 
@@ -31,7 +31,7 @@ Ved å kopiere og lime inn koden over i en fil med navn `bekk.svg` og åpne den 
 
 Man bruker et koordinatsystem for å posisjonere elementer i svg-dokumentet.
 
-<img src="img/canvas-default-grid.png" height="200">
+<img src="img/canvas-default-grid.png" height="350">
 
 Koordinatsystemet startet i øvre venstre hjørne (0,0). Posisjoner måles i piksler fra dette hjørnet, med positiv x-retning til høyre og positiv y-retning nedover.
 
