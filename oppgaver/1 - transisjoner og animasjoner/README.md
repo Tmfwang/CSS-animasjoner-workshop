@@ -73,7 +73,7 @@ For å utsette starttidspunktet for en transisjon, legger vi til en forsinkelse,
 
 :trophy: 3. Legg på en forsinkelse på `color`-transisjonen, slik at den slutter samtidig som `background`-transisjonen.
 
-:school_satchel: [Fasit - oppgave 1, 2 og 3](https://codepen.io/tmfwang/pen/eYQGNoJ?editors=1100)
+:school_satchel: [Fasit - Oppgave 1, 2 og 3](https://codepen.io/tmfwang/pen/eYQGNoJ?editors=1100)
 
 
 
@@ -89,16 +89,14 @@ Defaultverdien er `ease`, men vi kan endre den til f.eks. `linear` slik: `transi
 
 :trophy: 5. Sett akselerasjonskurven på `transform`-transisjonen lik `ease-in`. Utforsk gjerne med de andre akselerasjonskurvene og se om du merker forskjellen.
 
-:school_satchel: [Fasit - oppgave 4 og 5](https://codepen.io/tmfwang/pen/YzRryKa?editors=1100)
+:school_satchel: [Fasit - Oppgave 4 og 5](https://codepen.io/tmfwang/pen/YzRryKa?editors=1100)
 
 Det er også mulig å lage en egendefinert akselerasjonskurve, ved å bruke [cubic-bezier (lages her)](http://cubic-bezier.com/#.17,.67,.83,.67).
 
 :trophy: 6. Sett akselerasjonen på `transform`-transisjonen til en cubic-bezier kurve du har [laget selv](http://cubic-bezier.com/#.17,.67,.83,.67). 
 
-
-
-
 :school_satchel: [Fasit](https://codepen.io/tmfwang/pen/NWEaGzG?editors=1100)
+
 
 
 ## Animasjoner - `animation`
@@ -155,17 +153,21 @@ I tillegg til start og slutt, kan vi også legge til flere keyframes, som beskri
 }
 ```
 
-### Oppgaver
+### :trophy: [Oppgave 7, 8 og 9](https://codepen.io/tmfwang/pen/LYXzpqg?editors=1100)
 
-Vi har laget en enkel animasjon [her](https://codepen.io/mfeiring/pen/BqywWZ), som flytter en boks fra venstre til høyre. Den er litt kjedelig, så vi skal utvide den litt.
+Vi har laget en enkel animasjon [her](https://codepen.io/tmfwang/pen/LYXzpqg?editors=1100), som flytter en boks fra venstre til høyre. Den er litt kjedelig, så vi skal utvide den litt.
 
-:trophy: 6. Bruk `animation-iteration-count` for å loope animasjonen.
+:trophy: 7. Bruk `animation-iteration-count` for å loope animasjonen.
 
 Fått det til? Så bra, men det ser kanskje litt rart ut at firkanten hopper tilbake til venstre, etter hver repetisjon?
 
-:trophy: 7. Bruk `animation-direction` for å få boksen til å animeres også fra høyre til venstre. Du kan evt utvide `@keyframes`-regelen, slik at boksen er helt til høyre ved 50%, og tilbake til venstre ved 100%.
+:trophy: 8. Bruk `animation-direction` for å få boksen til å animeres også fra høyre til venstre. Du kan evt utvide `@keyframes`-regelen, slik at boksen er helt til høyre ved 50%, og tilbake til venstre ved 100%.
 
-:trophy: 8. Få firkanten til å rotere mens den beveger seg.
+:trophy: 9. Få firkanten til å rotere mens den beveger seg.
 
 :bulb: For å legge til flere transformasjoner på samme element, f.eks. både skalering og forflytning, gjør man slik:
 `transform: scale(2) translate(10px);`
+
+:school_satchel: [Fasit - Oppgave 7, 8 og 9](https://codepen.io/tmfwang/pen/VwVMvOR?editors=1100)
+
+Gjerne lek deg med mulighetene som keyframes-animasjoner tilbyr. Får du til å endre f.eks. størrelsen og fargen på firkanten underveis i animasjonen ved å bruke mellomsteg? 
