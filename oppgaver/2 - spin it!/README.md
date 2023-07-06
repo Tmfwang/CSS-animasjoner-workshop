@@ -10,7 +10,7 @@ En veldig enkel spinner kan lages ved å følge denne "oppskriften":
 
 Men det går jo an å lage litt mer spennende spinnere/loadere også.
 
-### :trophy: [Oppgave 1](https://codepen.io/mfeiring/pen/RePWGL)
+### :trophy: [Oppgave 1](https://codepen.io/tmfwang/pen/PoxJZZP?editors=1100)
 
 Animer elementene som er satt opp, slik:
 
