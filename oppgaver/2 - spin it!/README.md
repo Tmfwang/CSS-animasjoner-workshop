@@ -19,7 +19,7 @@ Animer elementene som er satt opp, slik:
 :bulb: Bruk `scale` til å endre høyden  
 :bulb: Det kan være smart å sette opp litt flere `keyframes`
 
-:school_satchel: [Fasit](https://codepen.io/mfeiring/pen/MPwwLZ)
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/YzRrwwm?editors=1100)
 
 ### :trophy: [Oppgave 2](https://codepen.io/mfeiring/pen/xyGZGX)
 
