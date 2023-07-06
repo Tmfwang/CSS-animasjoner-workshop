@@ -21,7 +21,7 @@ Animer elementene som er satt opp, slik:
 
 :school_satchel: [Fasit](https://codepen.io/tmfwang/pen/YzRrwwm?editors=1100)
 
-### :trophy: [Oppgave 2](https://codepen.io/mfeiring/pen/xyGZGX)
+### :trophy: [Oppgave 2](https://codepen.io/tmfwang/pen/ZEmXQJR?editors=1100)
 
 Animer elementene som er satt opp, slik:
 
@@ -29,4 +29,4 @@ Animer elementene som er satt opp, slik:
 
 :bulb: Sentrum for animasjonen kan defineres med [`transform-origin`](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
 
-:school_satchel: [Fasit](https://codepen.io/mfeiring/pen/JmdGdO)
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/WNYZrJZ?editors=1100)
