@@ -149,7 +149,7 @@ Lag to keyframes (`shake` og `dash`) og få raketten til å se mer levende ut. N
 
 :school_satchel: [Fasit](https://codepen.io/tmfwang/pen/vYQWZzz?editors=1100)
 
-### :trophy: [Oppgave 6](https://codepen.io/mfeiring/pen/ePNaBr)
+### :trophy: [Oppgave 6](https://codepen.io/tmfwang/pen/WNYXOPb?editors=1100)
 
 I denne oppgaven har vi satt opp `@keyframes`, men du skal selv få definere `animation` og `stroke-dasharray`. Du kan lese mer om hvordan `stroke-dasharray` funker [her](https://css-tricks.com/svg-line-animation-works/).
 
@@ -159,4 +159,4 @@ I denne oppgaven har vi satt opp `@keyframes`, men du skal selv få definere `an
 
 :bulb: `animation-delay` er vel og bra, men det funker ikke hvis man ønsker å loope animasjonen. Hvis du ønsker å loope animasjonen, så må du nok trikse litt med keyframes. Du kan evt lese mer om dette [her](https://css-tricks.com/css-keyframe-animation-delay-iterations/)
 
-:school_satchel: [Fasit](https://codepen.io/mfeiring/pen/qJdGRv)
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/vYQWZMQ?editors=1100)
