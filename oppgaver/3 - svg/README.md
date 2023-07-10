@@ -78,13 +78,16 @@ Lag en svart firkant med en rød sirkel.
 
 For å bestemme fargen til et element bruker man attributtene `fill` og `stroke`. Begge tar samme verdier som farger som man kan bruke i css. Enten det er fargenavn (feks `red`) eller rgb-verdier (feks `rgb(255,0,0)`) eller hex-verdier (feks `#fffff`). Man kan i tillegg spesifisere hvor gjennomsiktig en farge skal være (opacity) med attributtene `fill-opacity` og `stroke-opacity`.
 
-### :trophy: [Oppgave 3](https://codepen.io/sveinpg/pen/KGwWbX)
+### :trophy: [Oppgave 3](https://codepen.io/tmfwang/pen/PoxOjEX?editors=1000)
 
 Gi hjertet rød fyllfarge og en svart strek rundt.
 
 <img src="img/hearth.png" height="200">
 
 :bulb: Mer om [fill og stroke](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Fills_and_Strokes)
+
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/dyQZRJd?editors=1000)
+
 
 ## Styling med CSS
 
