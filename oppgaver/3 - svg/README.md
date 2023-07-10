@@ -37,7 +37,7 @@ Koordinatsystemet starter i øvre venstre hjørne (0,0). Posisjoner måles i pik
 
 > Legg merke til at den vertikale retningen er motsatt av hva man lærte på skolen.
 
-### :trophy: [Oppgave 1](https://codepen.io/sveinpg/pen/qJErqy)
+### :trophy: [Oppgave 1](https://codepen.io/tmfwang/pen/XWyzggj?editors=1000)
 
 Flytt den røde firkanten ned i høyre hjørne.
 
@@ -46,6 +46,8 @@ Flytt den røde firkanten ned i høyre hjørne.
 :bulb: Flytter man firkanten for langt vil den havne utenfor viewporten.
 
 :bulb: Mer om posisjonering kan leses på [MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Positions)
+
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/wvQPeeO?editors=1000)
 
 ## Basic shapes
 
