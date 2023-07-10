@@ -61,7 +61,7 @@ Det finnes former som man bruke som byggesteiner til å lage mer avanserte SVGer
 - [polygon](https://developer.mozilla.org/en-US/Web/SVG/Element/polygon) brukes på samme måte som `polyline`, men tegner en strek mellom første og siste punkt slik at man får en lukket form.
 - [path](https://developer.mozilla.org/en-US/docs/Web/SVG/Element/path) er den mest generelle formen som kan brukes i SVG og kan brukes til å lage alle andre elementer. Man bruker attributten [d](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d) til å definere pathen som skal tegnes.
 
-### :trophy: [Oppgave 2](https://codepen.io/sveinpg/pen/ePmvey)
+### :trophy: [Oppgave 2](https://codepen.io/tmfwang/pen/VwVrWzQ?editors=1000)
 
 Lag en svart firkant med en rød sirkel.
 
@@ -70,6 +70,9 @@ Lag en svart firkant med en rød sirkel.
 :bulb: Man bruker attributten `fill` til å sette fyllfarge.
 
 :bulb: SVG-dokumenter leses fra toppen og nedover. Slik at elementer definert lenger ned i dokumentet tegnes på toppen av de som er tegnet allerede.
+
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/MWzOoOK?editors=1000)
+
 
 ## Fill and stroke
 
