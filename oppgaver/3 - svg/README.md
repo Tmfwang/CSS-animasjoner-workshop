@@ -119,9 +119,11 @@ Vil det se slik ut.
 
 > Legg merke til at man bruker `id` til å hente ut riktig element.
 
-### :trophy: [Oppgave 4](https://codepen.io/sveinpg/pen/KGwWbX)
+### :trophy: [Oppgave 4](https://codepen.io/tmfwang/pen/ExObXEm?editors=1100)
 
 Bruk CSS til å gi hjertet fyllfarge og en svart strek rundt.
+
+:school_satchel: [Fasit](https://codepen.io/tmfwang/pen/RwqjgJY?editors=1100)
 
 ## Animasjoner med css.
 
